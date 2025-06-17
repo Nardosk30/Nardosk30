@@ -38,3 +38,12 @@ About Me:
 </p>
 
 
+## 📊 Data Visualization & Interactive Dashboards
+
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Dash-00A3E0?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+</p>
+
