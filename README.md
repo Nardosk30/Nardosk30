@@ -6,10 +6,9 @@
   | |_| | (_| | || (_| | |  _ < (_) | (__|   <\__ \ || (_| | |   
   |____/ \__,_|\__\__,_| |_| \_\___/ \___|_|\_\___/\__\__,_|_|   
                                                                  
-                                                                       
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Hebrew&size=26&duration=4000&color=22D3EE&width=500&lines=%D7%93%D7%90%D7%98%D7%94+%D7%A1%D7%99%D7%99%D7%A0%D7%A1+%D7%9C%D7%90%D7%95%D7%9E%D7%99;%D7%9E%D7%97%D7%A9%D7%95%D7%91+%D7%9C%D7%9E%D7%99%D7%93%D7%94+%D7%9E%D7%A7%D7%95%D7%93%D7%9D" alt="Animated Ivrit Text">
-</p>
+
+                 
+
                                                                                                            
 
 
