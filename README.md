@@ -1,4 +1,4 @@
-About me:
+About Me:
 
  🔭 I’m currently working on improving accuracy for my Amharic NLP classification model  
  
